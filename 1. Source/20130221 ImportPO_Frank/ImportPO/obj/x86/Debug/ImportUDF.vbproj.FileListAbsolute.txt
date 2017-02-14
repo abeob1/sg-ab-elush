@@ -1,0 +1,44 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\bin\Debug\ImportUDF.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\bin\Debug\ImportUDF.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\bin\Debug\ImportUDF.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\obj\x86\Debug\ImportUDF.vbproj.ResolveComReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\obj\x86\Debug\ImportUDF.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\obj\x86\Debug\ImportUDF.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\obj\x86\Debug\ImportUDF.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\obj\x86\Debug\ImportUDF.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\ImportUDF\obj\x86\Debug\ImportUDF.pdb
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\obj\x86\Debug\ImportUDF.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\obj\x86\Debug\ImportUDF.exe
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\obj\x86\Debug\ImportUDF.xml
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\obj\x86\Debug\ImportUDF.pdb
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\bin\Debug\ImportUDF.exe
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\bin\Debug\ImportUDF.pdb
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\bin\Debug\ImportUDF.xml
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\obj\x86\Debug\ImportUDF.Form1.resources
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\obj\x86\Debug\ImportUDF.Resources.resources
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\ImportUDF\ImportUDF\obj\x86\Debug\ResGen.write.1.tlog
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\ImportUDF.vbproj.ResolveComReference.cache
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\ImportUDF.exe
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\ImportUDF.xml
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\ImportUDF.pdb
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\bin\Debug\ImportUDF.exe
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\bin\Debug\ImportUDF.pdb
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\bin\Debug\ImportUDF.xml
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\ImportUDF.frmImportPO.resources
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\ImportUDF.Resources.resources
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\ResGen.read.1.tlog
+C:\Working Folder\ABEO\Singapore Elush\ImportPO\ImportUDF\obj\x86\Debug\ResGen.write.1.tlog

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ELush_Order", "ELush_Order\ELush_Order.vbproj", "{8B992D08-17B6-40A8-99A4-1E90B65460CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B992D08-17B6-40A8-99A4-1E90B65460CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B992D08-17B6-40A8-99A4-1E90B65460CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B992D08-17B6-40A8-99A4-1E90B65460CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B992D08-17B6-40A8-99A4-1E90B65460CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

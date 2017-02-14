@@ -1,0 +1,82 @@
+﻿ <head>
+     <style type="text/css">
+         .style2
+         {
+             width: 2068px;
+         }
+         .style5
+         {
+             width: 1243px;
+         }
+         .style12
+         {
+             width: 591px;
+         }
+         .style13
+         {
+             width: 135px;
+         }
+         .style14
+         {
+             width: 657px;
+         }
+         .style15
+         {
+             width: 165px;
+         }
+     </style>
+ </head>
+ <table bgcolor="White" >
+    <tr>
+        <td class="style14" >
+                <table style="width:69%;">
+                    <tr>
+                        <td align="center" style="font-weight: bold" bgcolor="#99CCFF" class="style12">
+                            PURCHASE ORDER</td>
+                    </tr>
+                </table>
+                <br />
+                <table id="tblHeader" style="width:69%;" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td class="style2" style="font-weight: bold">
+                            Please find the attached PO created on </td>
+                        <td class="style5">
+                            <@Date></td>
+                    </tr>
+                </table>
+                <br />
+                <table id="tblLine" style="width:69%;" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td align="center"
+                            style="border: thin solid #008080; " bgcolor="#FFCCFF" colspan="0" 
+                            rowspan="0" class="style13">
+                            Store</td>
+                        <td align="center"
+                            style="border: thin solid #008080; " bgcolor="#FFCCFF" 
+                            rowspan="0">
+                            Amount without GST</td>
+                        <td align="center"
+                            style="border: thin solid #008080; " bgcolor="#FFCCFF" 
+                            rowspan="0">
+                            Amount with GST</td>
+                    </tr>
+                    <@ITEMLINEHERE>
+                     <tr>
+                        <td align="left"
+                            style="border: thin solid #008080; "  colspan="0" 
+                            rowspan="0" class="style13">
+                            <strong>Total</strong></td>
+                        <td align="right"
+                            style="border: thin solid #008080; " 
+                            rowspan="0" class="style15">
+                            <strong><@Amount1></strong></td>
+                        <td align="right"
+                            style="border: thin solid #008080; " 
+                            rowspan="0">
+                            <strong><@Amount2></strong></td>
+                    </tr>
+                </table>
+                <br />
+        </td>
+    </tr>
+    </table>
