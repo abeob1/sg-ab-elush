@@ -1,0 +1,16 @@
+SAP 8.8
+
+
+SAP       Pivotal
+
+PO   -    GRPO
+
+sales
+
+    -    SO , incoming payment
+
+inventory transfer
+
+ HO - warehaouse (SAP)
+ wh - wh (pivotal)
+ 
